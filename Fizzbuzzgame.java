@@ -1,4 +1,4 @@
-package fizzbuzzGAME;
+package Fizzbuzzgame;
 
 import java.util.Scanner;
 
